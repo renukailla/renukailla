@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Renuka Illa  
 
-![Java Full Stack Developer Banner](https://raw.githubusercontent.com/renukailla/resources/main/profile_image.jpg)?
+![Java Full Stack Developer Banner](https://raw.githubusercontent.com/renukailla/resources/main/profile_image.jpg)
 
 ## 💻 About Me
 I'm a passionate **Java Full Stack Developer** with over **8 years of experience** in building scalable and robust applications. I specialize in **back-end development** using Java technologies and **front-end frameworks** to create seamless user experiences.
