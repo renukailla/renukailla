@@ -3,7 +3,7 @@
 ![Java Full Stack Developer Banner](https://raw.githubusercontent.com/renukailla/resources/main/profile_image.jpg)
 
 ## 💻 About Me
-I'm a passionate **Java Full Stack Developer** with over **8 years of experience** in building scalable and robust applications. I specialize in **back-end development** using Java technologies and **front-end frameworks** to create seamless user experiences.
+I'm a passionate **Java Full Stack Developer** with over **5+ years of experience** in building scalable and robust applications. I specialize in **back-end development** using Java technologies and **front-end frameworks** to create seamless user experiences.
 
 ---
 
@@ -55,7 +55,7 @@ I'm a passionate **Java Full Stack Developer** with over **8 years of experience
 ### 📬 Get in Touch
 
 - **LinkedIn:** [Renuka Illa](https://www.linkedin.com/in/renukailla)  
-- **Email:** renukailla87@gmail.com  
+- **Email:** irenu306@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=renukailla&color=blue)
 
